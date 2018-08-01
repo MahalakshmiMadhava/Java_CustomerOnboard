@@ -1,10 +1,5 @@
 version: 0.2
 
-phases:
-  build:
-    commands:
-      - echo Build started on `date`
-      - mvn compile
 artifacts:
   files:
     - target/CustomerOnboard.jar
