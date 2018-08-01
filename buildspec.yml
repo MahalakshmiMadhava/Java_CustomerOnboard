@@ -1,5 +1,12 @@
 version: 0.2
 
+ build:
+    commands:
+      - echo Entering build phase...
+      - echo Build started on `date`
+      - mvn pom.xml compile
+      - mvn pom.xml package
+      
 artifacts:
   type: zip
   files:
