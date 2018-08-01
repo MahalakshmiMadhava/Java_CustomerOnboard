@@ -1,6 +1,7 @@
 version: 0.2
 
 artifacts:
+  type: zip
   files:
-    - ./
+    - 'target/CustomerOnboarding.war'
 
