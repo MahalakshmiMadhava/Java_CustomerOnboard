@@ -1,7 +1,6 @@
 version: 0.2
     
 artifacts:
-  type: zip
+  discard-paths: yes
   files:
-    - 'Java_CustomerOnboard/CustomerOnBoard.war'
-
+    - CustomerOnBoard
