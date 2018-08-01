@@ -1,6 +1,5 @@
 version: 0.2
 
-$CODEBUILD_SRC_DIR
 artifacts:
   files:
     - ./
