@@ -4,8 +4,8 @@ version: 0.2
     commands:
       - echo Entering build phase...
       - echo Build started on `date`
-      - mvn pom.xml compile
-      - mvn pom.xml package
+      - mvn =f pom.xml compile
+      - mvn =f pom.xml package
       
 artifacts:
   type: zip
