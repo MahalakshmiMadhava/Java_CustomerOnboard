@@ -3,5 +3,5 @@ version: 0.2
 artifacts:
   type: zip
   files:
-    - 'Java_CustomerOnboard/CustomerOnboarding.war'
+    - 'Java_CustomerOnboard/CustomerOnboard.war'
 
