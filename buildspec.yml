@@ -1,14 +1,7 @@
 version: 0.2
-
- build:
-    commands:
-      - echo Entering build phase...
-      - echo Build started on `date`
-      - mvn =f pom.xml compile
-      - mvn =f pom.xml package
-      
+    
 artifacts:
   type: zip
   files:
-    - 'target/CustomerOnboarding.war'
+    - 'Java_CustomerOnboard/CustomerOnboarding.war'
 
