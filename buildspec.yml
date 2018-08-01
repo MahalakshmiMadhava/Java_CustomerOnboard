@@ -7,5 +7,5 @@ phases:
       - mvn compile
 artifacts:
   files:
-    - target/my-app-1.0-SNAPSHOT.jar
+    - target/CustomerOnboard.jar
 
