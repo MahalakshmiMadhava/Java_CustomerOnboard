@@ -2,5 +2,5 @@ version: 0.2
 
 artifacts:
   files:
-    - usecase3/target
+    - /
 
