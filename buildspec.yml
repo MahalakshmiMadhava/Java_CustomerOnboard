@@ -3,4 +3,4 @@ version: 0.2
 artifacts:
   discard-paths: yes
   files:
-    - target/CustomerOnBoard
+    - MahalakshmiMadhava/Java_CustomerOnboard/target/CustomerOnBoard.war
