@@ -3,5 +3,5 @@ version: 0.2
 artifacts:
   
   files:
-    - CustomerOnBoard.war
-    discard-paths: yes
+     - CustomerOnBoard.war
+  discard-paths: yes
