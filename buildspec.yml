@@ -3,4 +3,4 @@ version: 0.2
 artifacts:
   discard-paths: yes
   files:
-    - src/bean/CustomerOnBoard.war
+    - target/CustomerOnBoard
