@@ -8,7 +8,7 @@ version: 0.2
      # key: "value"
      # key: "value"
 
-phases:
+#phases:
   #install:
     #commands:
       # - command
@@ -17,9 +17,9 @@ phases:
     #commands:
       # - command
       # - command
-  build:
-    commands:
-       - mvn install
+  #build:
+    #commands:
+       #- mvn install
       # - command
   #post_build:
     #commands:
